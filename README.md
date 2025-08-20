@@ -1,6 +1,6 @@
 # Taywan <img src="https://media1.tenor.com/m/oylzydvTDV4AAAAC/kusuriya-no-hitorigoto-maomao.gif" width="70px">
 
-Eu sou <strong>Taywan</strong>, <strong>Aprendendo a desenvolver meu lado programador </strong> 👨🏻‍💻 
+Eu sou <strong>Taywan</strong>, <strong>Aprendendo a desenvolver meu lado programador e meu lado pessoal  </strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou cursando: <strong>ADS pelo SENAC</strong> 
 - 💬 Pergunte-me sobre: <strong>Adoro jogar, entrar em call , assistir/ler animes e curto músicas no geral</strong>
