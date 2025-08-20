@@ -1,4 +1,4 @@
-# Taywan <img src="https://media1.tenor.com/m/ysk2vfWxajEAAAAd/rika-rika-furude.gif" width="30px">
+# Taywan <img src="https://media1.tenor.com/m/oylzydvTDV4AAAAC/kusuriya-no-hitorigoto-maomao.gif" width="70px">
 
 Eu sou <strong>Taywan</strong>, <strong>Aprendendo a desenvolver meu lado programador </strong> 👨🏻‍💻 
 
