@@ -1,6 +1,6 @@
 # Taywan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Taywan</strong>, <strong>Tenho 21 anos e estou aprendendo a desenvolver as linguagens  </strong> 👨🏻‍💻 
+Eu sou <strong>Taywan</strong>, <strong>Aprendendo a desenvolver meu lado programador </strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou cursando: <strong>ADS pelo SENAC</strong> 
 - 💬 Pergunte-me sobre: <strong>Adoro jogar, entrar em call , assistir/ler animes e curto músicas no geral</strong>
